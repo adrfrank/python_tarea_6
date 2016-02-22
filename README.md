@@ -1,1 +1,2 @@
-# python_tarea_6
+# Tópico Python - Tarea 6
+Uso de interfaces gráficas y bases de datos
